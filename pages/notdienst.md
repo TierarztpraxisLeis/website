@@ -86,7 +86,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Leis](tieraerzte/leis.html)
 -------------------------------------------------------------
 
-- 03.02.2018-04.02.2018
+- 24.02.2018-25.02.2018
 - 19.05.2018-20.05.2018
 - 04.08.2018-05.08.2018
 - 29.12.2018-30.12.2018
@@ -138,7 +138,7 @@ Automatisch wird der Notdienst einen Tag vorher und einen Tag nachher noch angez
 [Praxis Shcherbyna](tieraerzte/Shcherbyna.html)
 -------------------------------------------------------------
 
-- 24.02.2018-28.02.2018
+- 03.02.2018-04.02.2018
 - 02.06.2018-03.06.2018
 - 14.07.2018-15.07.2018
 
