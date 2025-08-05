@@ -236,7 +236,7 @@ Tierarztpraxis an der Weser- Kirchner&Kölling
 ------------------------------
 - 15.08.2025 - 17.08.2025
 
-[Praxis Leis](tieraerzte/leis.html)
+Praxis Shcherbyna
 -------------------------------------------------------------
 - 18.08.2025
 
@@ -538,3 +538,4 @@ function toggle_visibility() {
 // run this shit
 seek_and_hide();
 </script>
+
